@@ -178,4 +178,4 @@ Automated tests cover all financial calculation algorithms:
 ---
 
 ## 📄 License
-This project is open-source and developed for the Code4Campus / Mulearn task.
+This project is open-source and developed by Sharika T R 
